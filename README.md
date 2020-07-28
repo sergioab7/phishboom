@@ -28,7 +28,7 @@
 <p>Actualmente solo puedes enviar mensajes a través de cuentas <b>gmail</b> en pocos días añadiré mas opciones de correo.</p>
 
 
-<h1>Requisitos</h1>
+## :crystal_ball: Requisitos
 
 <p>Para poder enviar mensajes debemos hacer los siguientes pasos</p>
 <p> Debemos ir a google y poner: <b> App password </b> y en mi caso elijo la 3 opción </p>
@@ -64,7 +64,7 @@
 </p>
 
 
-<h1> Funcionamiento y descarga</h1>
+## :heavy_check_mark: Funcionamiento y descarga
 
 <p>La mejor opción es crearlo desde un entorno virtual <b>(RECOMENDADO)</b><p>
 
@@ -88,7 +88,7 @@ python3 phishboom.py
 
 
 
-<h1> Resultados </h1>
+## :trophy: Resultados
 
 <p> Al iniciar el comando <b>run</b> enviará a las victimas</p>
 
@@ -104,7 +104,7 @@ python3 phishboom.py
 
 <p> Al clicar en el botón lo redirigiremos a la <b>url</b> que le hayamos especificado en el script </p>
 
-<h1> Prueba con ngrok + seetoolkit </h1>
+## :smiling_imp: Prueba con ngrok + seetoolkit 
 
 <p>Ngrok es una herramienta que permite acceder nuestro servidor local a cualquier persona en internet</p>
 <p>Setoolkit lo usaremos para clonar la página y que nos muestre las credenciales </p>
