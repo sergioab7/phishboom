@@ -109,7 +109,7 @@ python3 phishboom.py
 <p>Ngrok es una herramienta que permite acceder nuestro servidor local a cualquier persona en internet</p>
 <p>Setoolkit lo usaremos para clonar la página y que nos muestre las credenciales </p>
 
-<p> Empezamos por descaargarnos y ejecutar ngrok: <b>./ngrok http 80</b> </p>
+<p> Empezamos por descargarnos y ejecutar ngrok: <b>./ngrok http 80</b> </p>
 
 <p align="center">
 <img src="https://gyazo.com/5894f855c430a6d90eaf3d2b0270491c.png"
